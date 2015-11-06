@@ -1,0 +1,18 @@
+SETUP FOR VISUAL STUDIO PROJECT:
+
+COPY THE TEMPLATE TO YOUR DESKTOP. DO NOT MODIFY THE VERSION ON GITHUB!!!!!!!!!
+
+BASIC SETUP:
+
+You are most likely currently missing the BIN directory which is where our output of ThrowThings will be place.
+
+I gave you all a folder called dependencies. Copy that to the SAME DIRECTORY as this file.
+
+You need to create the (bin) folder in the SAME DIRECTORY as this file.
+
+Now copy the .DLL files from the DEPENDENCIES/COPY directory I gave you guys to this bin folder.
+
+
+SETUP IF VIXEN LIBRARIES CHANGE:
+
+You will need to copy the files from the BIN folder in the Git repo. Into the BIN folder of your ThrowThingsTemplate. (*same bin folder you created above)
